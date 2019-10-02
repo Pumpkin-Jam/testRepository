@@ -3,3 +3,4 @@ this is test
 branch is testbranch! oh yeah!
 
 クローン先で変更してみた。
+他のPCから見ています！
