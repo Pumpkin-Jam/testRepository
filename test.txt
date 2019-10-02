@@ -1,3 +1,5 @@
 this is test
 これはテストです。
 branch is testbranch! oh yeah!
+
+クローン先で変更してみた。
